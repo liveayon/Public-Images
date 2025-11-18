@@ -6,4 +6,7 @@
 
 <img width="2978" height="1200" alt="json-to-toon-data-analysis" src="https://github.com/user-attachments/assets/88355e13-0bae-4544-a695-f0116c67beb6" />
 
+<img width="2980" height="1200" alt="json-to-toon-data-analysis" src="https://github.com/user-attachments/assets/8c5fc2b0-1685-4bd1-b70f-1b4171039309" />
+
+
 
